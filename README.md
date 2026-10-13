@@ -1,0 +1,36 @@
+# Student Data Analysis Project
+
+## Project Description
+This project focuses on cleaning and analyzing student data using Python. It involves exploring the dataset, checking data quality, and preparing the data for further analysis.
+
+## Objectives
+- Understand the structure of a dataset.
+- Identify missing values.
+- Clean and prepare data for analysis.
+- Use Python libraries for data manipulation.
+
+## Tools and Technologies
+- Python
+- Pandas
+- NumPy
+- Google Colab
+
+## Dataset
+The project uses the `student-mat.csv` dataset containing student-related information.
+
+## Project Files
+- [Advanced_EDA_Feature_Engineering.ipynb](./Advanced_EDA_Feature_Engineering.ipynb) — Notebook containing Python code and analysis.
+- [cleaned_student_data.csv](./cleaned_student_data.csv) — Cleaned dataset.
+- [README.md](./README.md) — Project documentation.
+
+## How to Run
+1. Download the project files.
+2. Open the notebook in Google Colab.
+3. Upload the original `student-mat.csv` file when required.
+4. Run all notebook cells from top to bottom.
+
+## Learning Outcomes
+- Loading datasets using Pandas.
+- Exploring data using Python.
+- Identifying missing values and data quality issues.
+- Cleaning and exporting datasets to CSV.
